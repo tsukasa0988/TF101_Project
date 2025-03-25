@@ -1,0 +1,11 @@
+<Project name="TF101">
+  <Package name="RedWings">
+    <Container name="STR_MISSION">
+      <Key ID="1">
+        <Original>Red Wings Operation</Original>
+        <English>Red Wings Operation</English>
+        <Chinese>紅翼行動</Chinese>
+      </Key>
+    </Container>
+  </Package>
+</Project>
