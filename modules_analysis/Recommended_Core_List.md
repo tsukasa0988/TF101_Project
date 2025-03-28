@@ -1,1 +1,1 @@
-【模擬內容】這是 Recommended_Core_List.md 的占位內容。
+【模擬內容】建議保留模組：RHSUSAF, Simplex, TF101 私模

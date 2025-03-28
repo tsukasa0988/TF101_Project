@@ -1,1 +1,2 @@
-【模擬內容】這是 Module_Duplication_Report.md 的占位內容。
+【模擬內容】重複模組比對結果報告。
+- Tier One 與 TF101 重疊，建議移除
