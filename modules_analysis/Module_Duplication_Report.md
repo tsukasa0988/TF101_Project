@@ -1,2 +1,3 @@
-【模擬內容】重複模組比對結果報告。
-- Tier One 與 TF101 重疊，建議移除
+# Module Duplication Report
+
+- TF101 與常用模組重複項目：RHSUSAF, JSRS, USP

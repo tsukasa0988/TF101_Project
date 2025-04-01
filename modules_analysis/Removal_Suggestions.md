@@ -1,1 +1,4 @@
-【模擬內容】可移除模組：Tier One, ACE（若已包含於私模）
+# Removal Suggestions
+
+- NIArms（部分武器與 RHS 重疊）
+- BWMod（非中東任務常用）

@@ -1,1 +1,7 @@
-【模擬內容】建議保留模組：RHSUSAF, Simplex, TF101 私模
+# Recommended Core List
+
+- ALiVE
+- CBA_A3
+- RHSUSAF
+- ACE
+- CUP Terrains Core
