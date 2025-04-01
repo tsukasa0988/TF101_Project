@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="TF101">
+<Package name="Mission">
+<Container name="Hints">
+<Key ID="STR_HINT_START">
+<Original>Mission Started</Original>
+<German>Mission Gestartet</German>
+<Taiwan>任務開始</Taiwan>
+</Key>
+</Container>
+</Package>
+</Project>
